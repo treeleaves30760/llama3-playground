@@ -1,5 +1,6 @@
 datasets
 transformers
+scikit-learn
 torch
 flask
 flask-cors
