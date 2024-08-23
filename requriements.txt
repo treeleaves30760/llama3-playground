@@ -1,3 +1,5 @@
 datasets
 transformers
 torch
+flask
+flask-cors
